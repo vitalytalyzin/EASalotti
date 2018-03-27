@@ -1,0 +1,59 @@
+@font-face {
+			font-family: "WeblySleekUILight";
+			src: url("../fonts/WeblySleekUILight/WeblySleekUILight.eot");
+			src: url("../fonts/WeblySleekUILight/WeblySleekUILight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUILight/WeblySleekUILight.woff") format("woff"),
+			url("../fonts/WeblySleekUILight/WeblySleekUILight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "WeblySleekUISemiLight";
+			src: url("../fonts/WeblySleekUISemiLight/WeblySleekUISemiLight.eot");
+			src: url("../fonts/WeblySleekUISemiLight/WeblySleekUISemiLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUISemiLight/WeblySleekUISemiLight.woff") format("woff"),
+			url("../fonts/WeblySleekUISemiLight/WeblySleekUISemiLight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "WeblySleekUISemiBold";
+			src: url("../fonts/WeblySleekUISemiBold/WeblySleekUISemiBold.eot");
+			src: url("../fonts/WeblySleekUISemiBold/WeblySleekUISemiBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUISemiBold/WeblySleekUISemiBold.woff") format("woff"),
+			url("../fonts/WeblySleekUISemiBold/WeblySleekUISemiBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "WeblySleekUISemiLightItalic";
+			src: url("../fonts/WeblySleekUISemiLightItalic/WeblySleekUISemiLightItalic.eot");
+			src: url("../fonts/WeblySleekUISemiLightItalic/WeblySleekUISemiLightItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUISemiLightItalic/WeblySleekUISemiLightItalic.woff") format("woff"),
+			url("../fonts/WeblySleekUISemiLightItalic/WeblySleekUISemiLightItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "WeblySleekUISemiBoldItalic";
+			src: url("../fonts/WeblySleekUISemiBoldItalic/WeblySleekUISemiBoldItalic.eot");
+			src: url("../fonts/WeblySleekUISemiBoldItalic/WeblySleekUISemiBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUISemiBoldItalic/WeblySleekUISemiBoldItalic.woff") format("woff"),
+			url("../fonts/WeblySleekUISemiBoldItalic/WeblySleekUISemiBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "WeblySleekUILightItalic";
+			src: url("../fonts/WeblySleekUILightItalic/WeblySleekUILightItalic.eot");
+			src: url("../fonts/WeblySleekUILightItalic/WeblySleekUILightItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/WeblySleekUILightItalic/WeblySleekUILightItalic.woff") format("woff"),
+			url("../fonts/WeblySleekUILightItalic/WeblySleekUILightItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
